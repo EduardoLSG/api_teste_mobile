@@ -1,0 +1,218 @@
+[
+    {
+        "id": 1,
+        "name": "AREA 1",
+        "level": 0,
+        "parent": null
+    },
+    {
+        "id": 2,
+        "name": "AREA 2",
+        "level": 0,
+        "parent": null
+    },
+    {
+        "id": 3,
+        "name": "AREA 3",
+        "level": 0,
+        "parent": null
+    },
+    {
+        "id": 4,
+        "name": "AREA 4",
+        "level": 0,
+        "parent": null
+    },
+    {
+        "id": 4,
+        "name": "SETOR 1",
+        "level": 1,
+        "parent": 1
+    },
+    {
+        "id": 5,
+        "name": "SETOR 2",
+        "level": 1,
+        "parent": 1
+    },
+    {
+        "id": 6,
+        "name": "SETOR 1",
+        "level": 1,
+        "parent": 2
+    },
+    {
+        "id": 7,
+        "name": "SETOR 2",
+        "level": 1,
+        "parent": 2
+    },
+    {
+        "id": 8,
+        "name": "SETOR 1",
+        "level": 1,
+        "parent": 3
+    },
+    {
+        "id": 9,
+        "name": "SETOR 2",
+        "level": 1,
+        "parent": 3
+    },
+    {
+        "id": 10,
+        "name": "SETOR 1",
+        "level": 1,
+        "parent": 4
+    },
+    {
+        "id": 11,
+        "name": "SETOR 2",
+        "level": 1,
+        "parent": 4
+    },
+    {
+        "id": 12,
+        "name": "CONJUNTO 1",
+        "level": 2,
+        "parent": 4
+    },
+    {
+        "id": 13,
+        "name": "CONJUNTO 1",
+        "level": 2,
+        "parent": 5
+    },
+    {
+        "id": 14,
+        "name": "CONJUNTO 1",
+        "level": 2,
+        "parent": 6
+    },
+    {
+        "id": 15,
+        "name": "CONJUNTO 1",
+        "level": 2,
+        "parent": 7
+    },
+    {
+        "id": 16,
+        "name": "CONJUNTO 1",
+        "level": 2,
+        "parent": 8
+    },
+    {
+        "id": 17,
+        "name": "CONJUNTO 1",
+        "level": 2,
+        "parent": 9
+    },
+    {
+        "id": 18,
+        "name": "CONJUNTO 1",
+        "level": 2,
+        "parent": 10
+    },
+    {
+        "id": 19,
+        "name": "CONJUNTO 1",
+        "level": 2,
+        "parent": 11
+    },
+    {
+        "id": 20,
+        "name": "MOTOR",
+        "level": 3,
+        "parent": 12
+    },
+    {
+        "id": 21,
+        "name": "MANCAL",
+        "level": 3,
+        "parent": 12
+    },
+    {
+        "id": 22,
+        "name": "MOTOR",
+        "level": 3,
+        "parent": 13
+    },
+    {
+        "id": 23,
+        "name": "MANCAL",
+        "level": 3,
+        "parent": 13
+    },
+    {
+        "id": 24,
+        "name": "MOTOR",
+        "level": 3,
+        "parent": 14
+    },
+    {
+        "id": 25,
+        "name": "MANCAL",
+        "level": 3,
+        "parent": 14
+    },
+    {
+        "id": 26,
+        "name": "MOTOR",
+        "level": 3,
+        "parent": 15
+    },
+    {
+        "id": 27,
+        "name": "MANCAL",
+        "level": 3,
+        "parent": 15
+    },
+    {
+        "id": 28,
+        "name": "MOTOR",
+        "level": 3,
+        "parent": 16
+    },
+    {
+        "id": 29,
+        "name": "MANCAL",
+        "level": 3,
+        "parent": 16
+    },
+    {
+        "id": 30,
+        "name": "MOTOR",
+        "level": 3,
+        "parent": 17
+    },
+    {
+        "id": 31,
+        "name": "MANCAL",
+        "level": 3,
+        "parent": 17
+    },
+    {
+        "id": 32,
+        "name": "MOTOR",
+        "level": 3,
+        "parent": 18
+    },
+    {
+        "id": 33,
+        "name": "MANCAL",
+        "level": 3,
+        "parent": 18
+    },
+    {
+        "id": 34,
+        "name": "MOTOR",
+        "level": 3,
+        "parent": 19
+    },
+    {
+        "id": 35,
+        "name": "NEW MANCAL 35",
+        "level": 3,
+        "parent": 19
+    }
+]
